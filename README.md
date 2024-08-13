@@ -5,7 +5,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Jyotshna<br>
-        I'm Currently working on doing 500 Leetcode questions in 30 days.<br>
+        I'm Currently working on doing Leetcode questions for 100 days.<br>
    </i> <br>
 
 # 💻 Tech Stack:
