@@ -30,6 +30,6 @@ Pro tip : Click below on the image to view all of my collection
 ![](https://github-contributor-stats.vercel.app/api?username=dev-jyotshna&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[](https://visitcount.itsvg.in/api?id=dev-jyotshna&icon=5&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=dev-jyotshna&icon=5&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
