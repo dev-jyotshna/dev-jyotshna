@@ -6,6 +6,7 @@
     <i>
         I'm Jyotshna<br>
         I'm Currently working on doing Leetcode questions for 100 days.<br>
+        <a href="https://x.com/devjyotshna">check out how I'm doing for this</a>
    </i> <br>
 
 # 💻 Tech Stack:
